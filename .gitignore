@@ -1,0 +1,40 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build / output directories
+dist/
+build/
+
+# Babel cache
+.cache/
+
+# Jest coverage
+coverage/
+
+# Nodemon
+nodemon-debug.log
+
+# Firebase
+.firebase/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
